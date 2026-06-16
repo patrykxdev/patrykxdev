@@ -1,5 +1,5 @@
 ## Hey there I'm Patryk 👋
-# Mathematics undergraduate based in London
+### Mathematics undergraduate based in London
 
 <!--
 **patrykxdev/patrykxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
