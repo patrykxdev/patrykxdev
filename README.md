@@ -1,6 +1,6 @@
 ## Hey there I'm Patryk 👋
 ### Mathematics undergraduate based in London.
-### Modern day larp
+### Still in the larp phase I don't know anything yet.
 
 <!--
 **patrykxdev/patrykxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
