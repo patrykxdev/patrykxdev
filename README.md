@@ -1,5 +1,5 @@
 ## Hey there I'm Patryk 👋
-### Mathematics undergraduate based in London.
+### Undergraduate student based in London
 
 
 <!--
